@@ -1,0 +1,112 @@
+redmon2016yolo:
+  type: article
+  title: "You Only Look Once: Unified, Real-Time Object Detection"
+  author: ["Redmon, Joseph", "Divvala, Santosh", "Girshick, Ross", "Farhadi, Ali"]
+  date: 2016
+  page-range: 779-788
+  parent: {type: proceedings, title: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+
+bochkovskiy2020yolov4:
+  type: article
+  title: "YOLOv4: Optimal Speed and Accuracy of Object Detection"
+  author: ["Bochkovskiy, Alexey", "Wang, Chien-Yao", "Liao, Hong-Yuan Mark"]
+  date: 2020
+  parent: {type: periodical, title: arXiv preprint arXiv:2004.10934}
+
+jocher2023yolov8:
+  type: web
+  title: Ultralytics YOLOv8
+  author: ["Jocher, Glenn", "Chaurasia, Ayush", "Qiu, Jing"]
+  date: 2023
+  url: https://github.com/ultralytics/ultralytics
+
+lin2014coco:
+  type: article
+  title: "Microsoft COCO: Common Objects in Context"
+  author: ["Lin, Tsung-Yi", "Maire, Michael", "Belongie, Serge", "Hays, James", "Perona, Pietro", "Ramanan, Deva", "Dollár, Piotr", "Zitnick, C. Lawrence"]
+  date: 2014
+  page-range: 740-755
+  parent: {type: proceedings, title: Proceedings of the European Conference on Computer Vision (ECCV)}
+
+everingham2010voc:
+  type: article
+  title: The Pascal Visual Object Classes (VOC) Challenge
+  author: ["Everingham, Mark", "Van Gool, Luc", "Williams, Christopher K. I.", "Winn, John", "Zisserman, Andrew"]
+  date: 2010
+  page-range: 303-338
+  parent: {type: periodical, title: International Journal of Computer Vision, volume: 88, issue: 2}
+
+ciaglia2022rf100:
+  type: article
+  title: "Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark"
+  author: ["Ciaglia, Floriana", "Zuppichini, Francesco Saverio", "Guerrie, Paul", "McQuade, Mark", "Solawetz, Jacob"]
+  date: 2022
+  parent: {type: periodical, title: arXiv preprint arXiv:2211.13523}
+
+li2020gfl:
+  type: article
+  title: "Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection"
+  author: ["Li, Xiang", "Wang, Wenhai", "Wu, Lijun", "Chen, Shuo", "Hu, Xiaolin", "Li, Jun", "Tang, Jinhui", "Yang, Jian"]
+  date: 2020
+  page-range: 21002-21012
+  parent: {type: proceedings, title: Advances in Neural Information Processing Systems (NeurIPS), volume: 33}
+
+loshchilov2019adamw:
+  type: article
+  title: Decoupled Weight Decay Regularization
+  author: ["Loshchilov, Ilya", "Hutter, Frank"]
+  date: 2019
+  parent: {type: proceedings, title: Proceedings of the International Conference on Learning Representations (ICLR)}
+
+salman2020fish:
+  type: article
+  title: Automatic Fish Detection in Underwater Videos by a Deep Neural Network-Based Hybrid Motion Learning System
+  author: ["Salman, Ahmad", "Siddiqui, Shoaib Ahmad", "Shafait, Faisal", "Mian, Ajmal", "Shortis, Mark R.", "Khurshid, Khawar", "Ulges, Adrian", "Schwanecke, Ulrich"]
+  date: 2020
+  page-range: 1295-1307
+  parent: {type: periodical, title: ICES Journal of Marine Science, volume: 77, issue: 4}
+
+villon2018coral:
+  type: article
+  title: A Deep Learning Method for Accurate and Fast Identification of Coral Reef Fishes in Underwater Images
+  author: ["Villon, Sébastien", "Mouillot, David", "Chaumont, Marc", "Darling, Emily S.", "Subsol, Gérard", "Claverie, Thomas", "Villéger, Sébastien"]
+  date: 2018
+  page-range: 238-244
+  parent: {type: periodical, title: Ecological Informatics, volume: 48}
+
+akkaynak2018:
+  type: article
+  title: A Revised Underwater Image Formation Model
+  author: ["Akkaynak, Derya", "Treibitz, Tali"]
+  date: 2018
+  page-range: 6723-6732
+  parent: {type: proceedings, title: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+
+ancuti2018:
+  type: article
+  title: Color Balance and Fusion for Underwater Image Enhancement
+  author: ["Ancuti, Codruta O.", "Ancuti, Cosmin", "De Vleeschouwer, Christophe", "Bekaert, Philippe"]
+  date: 2018
+  page-range: 379-393
+  parent: {type: periodical, title: IEEE Transactions on Image Processing, volume: 27, issue: 1}
+  serial-number: {doi: 10.1109/TIP.2017.2759252}
+
+zuiderveld1994:
+  type: chapter
+  title: Contrast Limited Adaptive Histogram Equalization
+  author: Zuiderveld, Karel
+  date: 1994
+  page-range: 474-485
+  parent:
+    type: book
+    title: Graphics Gems IV
+    editor: Heckbert, Paul S.
+    publisher: Academic Press
+
+buchsbaum1980:
+  type: article
+  title: A Spatial Processor Model for Object Colour Perception
+  author: Buchsbaum, Gershon
+  date: 1980
+  page-range: 1-26
+  parent: {type: periodical, title: Journal of the Franklin Institute, volume: 310, issue: 1}
