@@ -5,6 +5,8 @@ YOLOv8 object detection for underwater footage, trained on the Roboflow **Aquari
 preprocessing and underwater-specific augmentation, evaluation with precision / recall / mAP,
 real-time video inference and a Streamlit control panel.
 
+**Live demo:** [https://emreyoleridev-underwater-fish-detection-app-q9aaiy.streamlit.app/](https://emreyoleridev-underwater-fish-detection-app-q9aaiy.streamlit.app/)
+
 ## Results
 
 YOLOv8s fine-tuned from COCO weights (short run: 4 + 6 epochs on an Apple M3 Pro), held-out test split (63 images, 582 boxes):
