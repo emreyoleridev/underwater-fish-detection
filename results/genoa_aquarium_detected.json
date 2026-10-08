@@ -1,0 +1,19 @@
+{
+  "frames": 1226,
+  "resolution": [
+    1280,
+    720
+  ],
+  "mean_latency_ms": 65.85592690773223,
+  "p95_latency_ms": 77.78510404750705,
+  "model_fps": 15.184662139841338,
+  "end_to_end_fps": 14.209929691274445,
+  "detections_per_class": {
+    "fish": 4577,
+    "starfish": 28,
+    "puffin": 5,
+    "jellyfish": 6,
+    "shark": 1
+  },
+  "mean_objects_per_frame": 3.765905383360522
+}

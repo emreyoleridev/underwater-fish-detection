@@ -1,0 +1,54 @@
+{
+  "preprocess": "none",
+  "aug_copies": 1,
+  "names": [
+    "fish",
+    "jellyfish",
+    "penguin",
+    "puffin",
+    "shark",
+    "starfish",
+    "stingray"
+  ],
+  "splits": {
+    "train": {
+      "images": 896,
+      "source_images": 448,
+      "boxes": {
+        "fish": 1964,
+        "jellyfish": 385,
+        "penguin": 330,
+        "puffin": 175,
+        "shark": 259,
+        "starfish": 78,
+        "stingray": 136
+      }
+    },
+    "val": {
+      "images": 127,
+      "source_images": 127,
+      "boxes": {
+        "fish": 459,
+        "jellyfish": 155,
+        "penguin": 104,
+        "puffin": 74,
+        "shark": 57,
+        "starfish": 27,
+        "stingray": 33
+      }
+    },
+    "test": {
+      "images": 63,
+      "source_images": 63,
+      "boxes": {
+        "fish": 249,
+        "jellyfish": 154,
+        "penguin": 82,
+        "puffin": 35,
+        "shark": 36,
+        "starfish": 11,
+        "stingray": 15
+      }
+    }
+  }
+}

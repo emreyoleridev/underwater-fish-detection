@@ -1,0 +1,13 @@
+# CPU-only PyTorch wheels (keeps Streamlit Cloud / CI installs small; on macOS the same index serves MPS-enabled wheels)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.2
+torchvision
+ultralytics>=8.3
+opencv-python-headless>=4.9
+numpy
+pandas
+matplotlib
+streamlit>=1.40
+imageio-ffmpeg
+huggingface_hub
+roboflow
